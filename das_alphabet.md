@@ -18,7 +18,7 @@ P - /PÊ/
 Q - /KU/  
 R - /ÉRR/  
 S - /ÉSS/  
-T - /TÊ/  
+T - /Tché/  
 U - /Ú/  
 V - /FÁu/  
 W - /VÊ/  
