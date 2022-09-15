@@ -23,7 +23,7 @@ U - /Ú/
 V - /FÁu/  
 W - /VÊ/  
 X - /Êks/  
-Y - /ypsilon/  
+Y - /ypisilon/  
 Z - /Sét/  
 Ä - /Êa/  
 Ö - /Ôu/  
