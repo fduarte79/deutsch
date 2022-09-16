@@ -1,14 +1,16 @@
-Hallo - ////- Oi  
-Guten morgen - //// - Bom dia  
-Guten tag - //// - Boa tarde  
-Gute natch - //// - Boa noite  
-Willkommen - //// - Bem vindo  
-Entschuldigen sie bitte - //// - Com licença  
-Dankeschön - //// - Obrigado  
-Entschuligung - //// - Desculpa  
-Auf wiedersehen - //// - Tchau  
-Bis bald - //// - Até logo  
-Ja - //// - Sim  
-Nein - //// - Não  
-Vielleicht - //// - Talvez  
-Ich weiß es nicht  - //// - Eu não sei  
+Hallo - //Rálô//- [Oi]  
+Guten morgen - //guten morgen// - [Bom dia]  
+Guten tag - //guten tág// - [Boa tarde]  
+Gute natch - //guten nárt// - [Boa noite]  
+Willkommen - //víikolmen// - [Bem vindo]  
+Entschuldigen sie bitte - //entchurigdê zi bidé// - [Com licença]  
+Bitte - //bité// - [Por favor]  
+Dankeschön - //dankeschun// - [Obrigado]  
+Entschuligung - //entchurigon// - [Desculpa]  
+Auf wiedersehen - //auf vidazen// - [Tchau]  
+Bis bald - //Bis baid// - [Até logo]  
+Ja - //Iá// - [Sim]  
+Nein - //Nain// - [Não]  
+Vielleicht - //Vílaicht// - [Talvez]  
+Ich weiß es nicht  - //Ich weiz es nicht// - [Eu não sei]  
+Verzeihung - //fertzeiun// - [Perdão]
